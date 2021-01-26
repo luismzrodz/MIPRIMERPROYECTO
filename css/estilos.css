@@ -1,3 +1,16 @@
-h1 {
+body
+{  
+ text-align: center;  
+ font-family:Arial, Helvetica, sans-serif   ; 
+}
+h1 
+{
     color: brown;
+}
+
+#contenedor
+{
+    margin: auto;
+    width: 90%;
+    border: 1px solid coral;
 }
